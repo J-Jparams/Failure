@@ -5,5 +5,7 @@ web game application
 [x] installed body-parser
 [x] installed firebase
 [-] finish config firebase
-[-] install & set up Unity web 3 to react
-[-] setup- game files in client folder
+[x] install & set up Unity web 3 to react
+[x] setup- game files in client folder
+
+Note: Internet Explorer is not compatable! 
